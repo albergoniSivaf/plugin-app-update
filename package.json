@@ -1,0 +1,9 @@
+{
+  "name": "app-update",
+  "version": "1.0.0",
+  "description": "Cordova App Update Wrapper",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albergoniSivaf/plugin-app-update.git"
+  },
+}
